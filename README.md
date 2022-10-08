@@ -8,7 +8,10 @@
 #### 🎨 My favorite thing about programming is that I get to be creative in a medium other than the typical pen / pencil / paintbrush! 
 #### 👷🏻‍♀️ I'm currently on week 8 of 12 of General Assembly's Software Engineering Course and am projected to graduate November 15th 👩🏻‍🎓
 #### 📚 In this unit we're diving into the back end and learning *MongoDB* and *Express*!
-#### 📬 The BEST way to reach me is via email @ mariesa.oconnell.dev@gmail.com
+#### 📬 The BEST way to reach me is via email @ mariesa.oconnell.dev@gmail.com 
+
+[![Email Image](https://user-images.githubusercontent.com/100657239/194726360-7647d6b3-edb5-473e-9caf-c9cec2d61686.png | width=100)](mailto:mariesa.oconnell.dev@gmail.com)
+
 
 
 ___
