@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats)
+[![Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats)
 
 
 <!--
