@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[!Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats)
+
+
 <!--
 **mariesaoconnell/mariesaoconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
