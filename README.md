@@ -1,19 +1,20 @@
-### Hi there 👋
+![welcome img](https://user-images.githubusercontent.com/100657239/194725686-dbe09ea2-b2c1-464b-b530-9512b22f8ccb.png)
 
-[![Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats)
+## *Thanks for being here! 👋🏻🥰* 
+
+### My name's Mariesa and I'm a Full-Stack Developer! 💻
+#### 😎 My pronouns are she/her and you can pronounce my name like *muh-ree-suh*.
+#### 🎉 *Fun Fact* my husband opened me up to the idea of changing my career to software development, because of my passion and creativity in crafting survival games like Minecraft! 🎮 *(I was the designated base builder)*
+#### 🎨 My favorite thing about programming is that I get to be creative in a medium other than the typical pen / pencil / paintbrush! 
+#### 👷🏻‍♀️ I'm currently on week 8 of 12 of General Assembly's Software Engineering Course and am projected to graduate November 15th 👩🏻‍🎓
+#### 📚 In this unit we're diving into the back end and learning *MongoDB* and *Express*!
+#### 📬 The BEST way to reach me is via email @ mariesa.oconnell.dev@gmail.com
 
 
-<!--
-**mariesaoconnell/mariesaoconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+## The Stats! 📈
+[![Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariesaoconnell&layout=compact)](https://github.com/mariesaoconnell/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
