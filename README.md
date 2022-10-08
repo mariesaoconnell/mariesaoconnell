@@ -10,7 +10,6 @@
 #### 📚 In this unit we're diving into the back end and learning *MongoDB* and *Express*!
 #### 📬 The BEST way to reach me is via email @ mariesa.oconnell.dev@gmail.com 
 
-[![Email Image](https://user-images.githubusercontent.com/100657239/194726360-7647d6b3-edb5-473e-9caf-c9cec2d61686.png | width=100)](mailto:mariesa.oconnell.dev@gmail.com)
 
 
 
