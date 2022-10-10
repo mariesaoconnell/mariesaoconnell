@@ -4,7 +4,7 @@
 
 ### My name's Mariesa and I'm a Full-Stack Developer! 💻
 #### 😎 My pronouns are she/her and you can pronounce my name like *muh-ree-suh*.
-#### 🎉 *Fun Fact* my husband opened me up to the idea of changing my career to software development. This idea blossomed due to incessant gravitation to building base contraptions to make everyday in-game life more efficient! 🎮 *(I was the designated base builder)*
+#### 🎉 *Fun Fact* my husband opened me up to the idea of changing my career to software development. This idea blossomed due to incessant gravitation to building base contraptions to make everyday in-game life more efficient! 🎮 
 #### 🎨 My favorite thing about programming is that I get to be creative in a medium other than the typical pen / pencil / paintbrush! 
 #### 👷🏻‍♀️ I'm currently on week 8 of 12 of General Assembly's Software Engineering Course and am projected to graduate November 15th 👩🏻‍🎓
 #### 📚 In this unit we're diving into the back end and learning *MongoDB* and *Express*!
