@@ -1,4 +1,5 @@
-![Welcome Image](https://user-images.githubusercontent.com/100657239/200148758-a6585aff-5b7e-4213-bd1f-ba9ce6c2ff4b.png)
+![Welcome](https://user-images.githubusercontent.com/100657239/200148777-98ce6562-237d-4584-b653-8bf800cc6899.png)
+
 
 ## *Thanks for being here! 👋🏻🥰* 
 
