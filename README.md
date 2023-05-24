@@ -4,7 +4,7 @@
 
 ## *Thanks for being here! 👋🏻🥰* 
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariesaoconnell&repo=mariesaoconnell&countColorcountColor&countColor=%237B1E7B"/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?username=mariesaoconnell&repo=mariesaoconnell&countColorcountColor&countColor=%237B1E7B"/>
 
 #### My name's Mariesa and I'm a Full-Stack Developer! 💻
 
