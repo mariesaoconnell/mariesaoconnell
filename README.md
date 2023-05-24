@@ -1,4 +1,4 @@
-![Welcome](https://user-images.githubusercontent.com/100657239/200148777-98ce6562-237d-4584-b653-8bf800cc6899.png)
+![Welcome](https://github.com/mariesaoconnell/mariesaoconnell/assets/100657239/ec426632-8367-4869-a676-11dac42fa756)
 
 
 ## *Thanks for being here! 👋🏻🥰* 
