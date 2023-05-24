@@ -45,12 +45,12 @@ ___
 ___
 
 ## My Stats! 📈
-[![Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariesaoconnell&layout=compact)](https://github.com/mariesaoconnell/github-readme-stats)
+<p style="display: flex; justify-content: center">
+[![Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariesaoconnell&layout=compact)](https://github.com/mariesaoconnell/github-readme-stats)
 
 [![Codewars Badge](https://www.codewars.com/users/mariesaoconnell/badges/large)](https://www.codewars.com/users/mariesaoconnell)
-
+</p>
 ___
 ## Let's Connect 📱
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariesaoconnell/)
