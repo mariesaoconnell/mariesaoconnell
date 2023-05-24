@@ -5,18 +5,20 @@
 ## *Thanks for being here! 👋🏻🥰* 
 
 #### My name's Mariesa and I'm a Full-Stack Developer! 💻
+
 #### I'm currently transitioning into a career as a developer, with a background in auto insurance claims and over half a decade of professional experience building my skills in problem solving, communication, time management and being solution oriented.  I started my development journey in 2009, when I discovered HTML and CSS, I continuted taking classes on web development, but didn't realize that it was a career option until 2021, which is when I chose to leave my career in insurance and pursue my education full time. I graduated from General Assembly's Software Engineering Immersive Program in November of 2021 and my goal is to continue to build upon the skills I graduated with and expand my skillset with the languaes and frameworks that interest me. 
+
 #### When I'm not programming, I'm probably gaming or chasing my three German Shepherds around my house with a vacuum. (In efforts to manage the fur lol)
 
 
 ___
-### What am I up to now? 
-- Refactoring Streamline Stream Search, adding auth and other cool features! 
-- Tutoring students in programming 101
-- Trying to come up with a cool app idea utilizing the OSearch api! 🦈
+## What am I up to now? 
+#### - Refactoring Streamline Stream Search, adding auth and other cool features! 
+#### - Tutoring programming 101
+#### - Trying to come up with a cool app idea utilizing the OSearch api! 🦈
 ___
 
-### 🔧 Checkout My Toolbox
+## 🔧 Checkout My Toolbox
 
 ![javascript-logo](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![React Logo](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
