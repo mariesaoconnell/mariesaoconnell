@@ -46,7 +46,10 @@ ___
 
 ## My Stats! 📈
 
-<p style="display: flex; justify-content: center">
+<p style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;">
 [![Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariesaoconnell&layout=compact)](https://github.com/mariesaoconnell/github-readme-stats)
 
 [![Codewars Badge](https://www.codewars.com/users/mariesaoconnell/badges/large)](https://www.codewars.com/users/mariesaoconnell)
