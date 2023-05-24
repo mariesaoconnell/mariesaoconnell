@@ -1,4 +1,5 @@
-![Welcome](https://github.com/mariesaoconnell/mariesaoconnell/assets/100657239/ec426632-8367-4869-a676-11dac42fa756)
+![Welcome](https://github.com/mariesaoconnell/mariesaoconnell/assets/100657239/1d36ffdb-efb5-4293-b980-2917011a3e43)
+
 
 
 ## *Thanks for being here! 👋🏻🥰* 
