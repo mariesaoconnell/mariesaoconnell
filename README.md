@@ -47,12 +47,13 @@ ___
 ## My Stats! 📈
 [![Mariesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariesaoconnell)](https://github.com/mariesaoconnell/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariesaoconnell&layout=compact)](https://github.com/mariesaoconnell/github-readme-stats)
-[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/mariesaoconnell)
+[![Codewars Badge](https://www.codewars.com/users/mariesaoconnell/badges/large)](https://www.codewars.com/users/mariesaoconnell)
 
 ___
 ## Let's Connect 📱
 <a href="https://www.linkedin.com/in/mariesaoconnell/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariesa.oconnell.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mariesaoconnell.com/)
 ___
 
 
